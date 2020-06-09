@@ -1,10 +1,12 @@
 # Python
 **/__pycache__
 *.pyc
+/venv
 
 
-# Personal notes
+# Personal notes & scripts
 /deprec
+start_atom.bat
 
 
 # Sensitive data
