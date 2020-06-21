@@ -11,3 +11,4 @@ start_atom.bat
 
 # Sensitive data
 /data
+/src/graphs
